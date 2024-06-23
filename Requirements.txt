@@ -1,0 +1,27 @@
+PDF to Speech Converter
+
+Instructions:
+1. Select a PDF file using the "Select PDF File" button.
+2. Click "Convert to Audio" to generate an audio file from the PDF's text content.
+
+Requirements:
+- Python 3.x (recommended version: 3.6+)
+- tkinter library (for the graphical user interface)
+- PyPDF2 library (for PDF file handling)
+- gTTS library (for text-to-speech conversion)
+- tkinter.ttk library (for themed widgets)
+
+Installation Steps:
+1. Install Python from https://www.python.org/downloads/
+2. Open a terminal or command prompt.
+3. Install required libraries using pip:
+   - tkinter: `pip install tk`
+   - PyPDF2: `pip install PyPDF2`
+   - gTTS: `pip install gtts`
+   - tkinter.ttk: `pip install ttkthemes`
+
+Notes:
+- Ensure the selected PDF contains readable text for accurate conversion.
+- Save the generated audio file by specifying a file name and location.
+
+Enjoy converting your PDF documents to speech effortlessly!
