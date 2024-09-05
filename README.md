@@ -14,7 +14,12 @@ PDF to Speech Converter is a Python application built using tkinter for the grap
 <h3> Follow the steps to clone the Repo</h3>
 Open Git Bash.<br>
 Change to the directory you want.<br>
-Clone the repository by entering this command: git clone "https://github.com/Sainy-Mishra/EchoPDF.git"
+Clone the repository by entering this command: 
+
+
+```bing
+git clone "https://github.com/Sainy-Mishra/EchoPDF.git"
+```
 
 # Requirements
 Please refer to the txt file uploaded for all the dependencies.
